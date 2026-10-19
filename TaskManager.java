@@ -10,7 +10,7 @@ public class TaskManager {
         ArrayList<String> tasks = new ArrayList<>();
 
         while (true) {
-            System.out.println("\n===== TASK MANAGER =====");
+            System.out.println("\n==== TASK MANAGER ====");
             System.out.println("1. Add Task");
             System.out.println("2. View Tasks");
             System.out.println("3. Complete Task");
